@@ -29,7 +29,7 @@ const Saidbar = memo(() => {
             </button>
             <button className="saidbar__page_link">
               <img
-                src="../../../../public/home.svg"
+                src="../../../../public/save.svg"
                 alt="icon"
                 className="saidbar__page_link--img"
               />
@@ -37,7 +37,7 @@ const Saidbar = memo(() => {
             </button>
             <button className="saidbar__page_link">
               <img
-                src="../../../../public/home.svg"
+                src="../../../../public/studebt.svg"
                 alt="icon"
                 className="saidbar__page_link--img"
               />
@@ -45,7 +45,7 @@ const Saidbar = memo(() => {
             </button>
             <button className="saidbar__page_link">
               <img
-                src="../../../../public/home.svg"
+                src="../../../../public/pay.svg"
                 alt="icon"
                 className="saidbar__page_link--img"
               />
@@ -53,7 +53,7 @@ const Saidbar = memo(() => {
             </button>
             <button className="saidbar__page_link">
               <img
-                src="../../../../public/home.svg"
+                src="../../../../public/repo.svg"
                 alt="icon"
                 className="saidbar__page_link--img"
               />
@@ -61,7 +61,7 @@ const Saidbar = memo(() => {
             </button>
             <button className="saidbar__page_link">
               <img
-                src="../../../../public/home.svg"
+                src="../../../../public/sitt.svg"
                 alt="icon"
                 className="saidbar__page_link--img"
               />
@@ -70,7 +70,7 @@ const Saidbar = memo(() => {
             <button className="saidbar__page_link mt-5 ">
               <h5 className="saidbar__page_link--text mx-5">Logout</h5>
               <img
-                src="../../../../public/home.svg"
+                src="../../../../public/back.svg"
                 alt="icon"
                 className="saidbar__page_link--img mx-0"
               />
